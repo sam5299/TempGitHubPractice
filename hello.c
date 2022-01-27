@@ -12,4 +12,5 @@ int main()
     printf("\nA is lesser than 5");
   }
   printf("Last line is here");
+  print("End of program");
 }
