@@ -7,5 +7,6 @@ int main() {
   } else {
     printf("\nA is lesser than 5");
   }
+  print("End of program");
 }
 
